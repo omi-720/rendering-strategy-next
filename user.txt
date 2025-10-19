@@ -1,0 +1,2 @@
+{"email":"alice@gmail.com","password":"alice123"}
+{"email":"bob@gmail.com","password":"bobpwd"}
